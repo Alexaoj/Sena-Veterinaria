@@ -16,5 +16,23 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
-  }
+  },
+  "name": "sena-veterinaria",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexaoj/Sena-Veterinaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexaoj/Sena-Veterinaria/issues"
+  },
+  "homepage": "https://github.com/Alexaoj/Sena-Veterinaria#readme"
 }
